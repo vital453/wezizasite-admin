@@ -4,7 +4,7 @@ session_start();
 
 // --- VOS IDENTIFIANTS (à modifier) ---
 define('ADMIN_USERNAME', 'admin'); 
-define('ADMIN_PASSWORD', 'VotreMotDePasseSuperSecret!'); // <-- CHANGEZ CECI !
+define('ADMIN_PASSWORD', 'fF3@auCmwgbgwWj!'); // <-- CHANGEZ CECI !
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = $_POST['username'];
